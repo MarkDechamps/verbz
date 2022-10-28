@@ -1,0 +1,39 @@
+{
+  "exercises": [
+    {
+      "title": "Avoir",
+      "skip": "false",
+      "questions": [
+        {
+          "q": "J'",
+          "a": "ai"
+        },
+        {
+          "q": "Tu",
+          "a": "as"
+        },
+        {
+          "q": "Il",
+          "a": "a"
+        },
+        {
+          "q": "Nous",
+          "a": "avons"
+        },
+        {
+          "q": "Vous",
+          "a": "avez"
+        },
+        {
+          "q": "Ils",
+          "a": "ont"
+        }
+      ]
+    },
+    {
+      "title": "Etre",
+      "skip": "false",
+      "questions": []
+    }
+  ]
+}
